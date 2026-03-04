@@ -1,7 +1,7 @@
 *{max-width: 1200px;}
 body {
     font-family: Arial;
-    background-image: url('/Apps/hh.jpg');
+    background-image: url('hh.jpg');
     background-size: 120% auto;     /* image thora bara */
     background-position: center top; /* top se adjust */
     background-repeat: no-repeat;
